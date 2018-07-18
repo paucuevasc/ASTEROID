@@ -6,6 +6,7 @@ var posShip=[anchoPantalla/2,altoPantalla/2];
 document.querySelector("#shipPosition").style.top=posShip[1]+ 'px';
 document.querySelector("#shipPosition").style.left=posShip[0]+ 'px';
      
+
 var ang=0;
 
 function shipRotator(){
